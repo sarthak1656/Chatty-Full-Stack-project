@@ -70,7 +70,7 @@ cd backend
 npm install
 npm run dev
 ```
-###.env config
+Backend.env config
 ```bash
 PORT=5000
 MONGO_URI=your_mongodb_connection
