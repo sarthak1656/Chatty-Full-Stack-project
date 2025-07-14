@@ -2,7 +2,7 @@
 
 Welcome to **Chatty**, a modern fullstack chat app built with **MERN** and **Socket.io**, featuring real-time messaging, secure authentication, and cloud image upload support.
 
-🌐 **Live App**: [chat-app-frontend-l6g2.vercel.app](https://chat-app-frontend-l6g2.vercel.app/login)
+🌐 **Live App**: [Click Here](https://chatty-app-frontend-iota.vercel.app//login)
 
 ---
 
